@@ -12,6 +12,5 @@ Contacto ->   email: <a href = "mailto: elusteinkamp@gmail.com">
 LinkedIn -> <a href="https://ar.linkedin.com/in/elias-steinkamp-a720b420b" target="blank">
               <img align="center" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" height="35" width="35" />
             </a>
-![LinkedIn](https://discord.com/branding)
 
 <br />
