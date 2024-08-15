@@ -16,7 +16,7 @@ LinkedIn -> <a href="https://ar.linkedin.com/in/elias-steinkamp-a720b420b" targe
             </a>
             <br>
              <br>
-Portafolio -> <a href="eliasstein.github.io/Portafolio/" target="blank">
+Portafolio -> <a href="https://eliasstein.github.io/Portafolio/" target="blank">
               <img align="center" src="https://www.svgrepo.com/show/99293/portfolio.svg" height="35" width="35" />
               </a>
 
